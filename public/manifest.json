@@ -1,0 +1,21 @@
+{
+  "name": "ChabadSync",
+  "short_name": "ChabadSync",
+  "description": "Hebrew Calendar & Chassidic Events Sync",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/chabadsync/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/chabadsync/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

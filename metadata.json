@@ -1,0 +1,5 @@
+{
+  "name": "ChabadSync",
+  "description": "A high-performance Hebrew Calendar PWA with Chabad Zmanim and offline support.",
+  "requestFramePermissions": ["geolocation"]
+}
